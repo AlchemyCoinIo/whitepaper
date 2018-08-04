@@ -7,3 +7,11 @@ Click :point_right:[White Paper](https://medium.com/alchemy-coin/how-to-buy-afi-
 ## Alchemy Coin Official Website
 
 [The journey to one of the FIRST Security Token!](https://alchemycoin.io/)
+
+## Change Log
+
+### 2018-08-04
+
+#### Changed
+
+- Moved CDO/TTO to the term "TDO"(Tokenized Debt Obligations)
